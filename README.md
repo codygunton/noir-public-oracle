@@ -1,3 +1,3 @@
-# Public oracle
+# Permissionless oracle
 
-Goal: use NOAA website as a public oracle for weather data.
+Goal: use the NOAA website as a permissionless public oracle for weather data.
